@@ -1,4 +1,4 @@
-# averageofdivisibleby3and4
+#  Average Of Numbers Divisible By 3 And 4
     import java.util.Scanner;
 
     public class Main {
